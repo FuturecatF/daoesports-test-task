@@ -1,0 +1,50 @@
+.converter-form {
+  margin-top: 50px;
+  width: 100%;
+  max-width: 600px;
+
+  &__list {
+    list-style: none;
+    margin: 0;
+    padding: 0;
+    display: flex;
+    flex-direction: column;
+    row-gap: 24px;
+    min-width: 280px;
+  }
+
+  &__item {
+    display: flex;
+    justify-content: center;
+    align-items: flex-end;
+    column-gap: 16px;
+  }
+
+  &__input-container {
+    display: flex;
+    flex-direction: column;
+    row-gap: 8px;
+  }
+
+  &__input::-webkit-outer-spin-button,
+  ::-webkit-inner-spin-button {
+    -webkit-appearance: none;
+    &:hover,
+    :focus {
+      appearance: none;
+      -moz-appearance: textfield;
+    }
+  }
+  &__input {
+    padding: 4px 8px;
+    border-radius: 4px;
+    font-size: 16px;
+    height: 32px;
+    outline: none;
+    border: 2px solid rgb(221, 3, 221);
+
+    &:focus {
+      border: 2px solid #2d6ef0;
+    }
+  }
+}

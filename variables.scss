@@ -1,0 +1,17 @@
+$colorBlack: #151A22;
+
+
+@mixin regular-text($size, $line-height) {
+  font-family: 'Montserrat', 'Roboto', 'Open Sans', sans-serif;
+  font-weight: normal;
+  font-size: $size;
+  line-height: $line-height;
+}
+
+@mixin buttonDefault() {
+  background: transparent;
+  border: none;
+  outline: 0;
+  padding: 0;
+  cursor: pointer;
+}
