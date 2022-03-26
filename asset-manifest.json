@@ -1,0 +1,21 @@
+{
+  "files": {
+    "main.css": "/daoesports-test-task/static/css/main.843a4613.chunk.css",
+    "main.js": "/daoesports-test-task/static/js/main.41f0a60d.chunk.js",
+    "main.js.map": "/daoesports-test-task/static/js/main.41f0a60d.chunk.js.map",
+    "runtime-main.js": "/daoesports-test-task/static/js/runtime-main.89418c5e.js",
+    "runtime-main.js.map": "/daoesports-test-task/static/js/runtime-main.89418c5e.js.map",
+    "static/js/2.44df86eb.chunk.js": "/daoesports-test-task/static/js/2.44df86eb.chunk.js",
+    "static/js/2.44df86eb.chunk.js.map": "/daoesports-test-task/static/js/2.44df86eb.chunk.js.map",
+    "index.html": "/daoesports-test-task/index.html",
+    "static/css/main.843a4613.chunk.css.map": "/daoesports-test-task/static/css/main.843a4613.chunk.css.map",
+    "static/js/2.44df86eb.chunk.js.LICENSE.txt": "/daoesports-test-task/static/js/2.44df86eb.chunk.js.LICENSE.txt",
+    "static/media/getFetch.cjs": "/daoesports-test-task/static/media/getFetch.582d29c4.cjs"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.89418c5e.js",
+    "static/js/2.44df86eb.chunk.js",
+    "static/css/main.843a4613.chunk.css",
+    "static/js/main.41f0a60d.chunk.js"
+  ]
+}
